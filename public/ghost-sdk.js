@@ -1,5 +1,5 @@
 (function () {
-        var apiUrl = '//localhost:2368/ghost/api/v0.1/',
+        var apiUrl = '//roundtheweb.nl/ghost/api/v0.1/',
         clientId,
         clientSecret,
         url,
